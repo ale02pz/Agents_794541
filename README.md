@@ -27,7 +27,7 @@ We developed a modular multi-agent system using the `swarms` framework, where ea
 To ensure efficient inference, we utilized **Gemini** with an API key to execute local language models, leveraging the capabilities of **Gemini 2.0-flash-001** for robust natural language processing.
 Our multi-agent system is designed to efficiently manage tasks by directly interacting with the language model, ensuring fast and accurate responses without relying on additional libraries for workflow management. Here we can see a visualization of the workflow of our multiagent system:
 
-[Workflow Agents](https://github.com/ale02pz/Agents_794541/raw/main/images/workflow%20agents.png)
+![Workflow Agents](https://github.com/ale02pz/Agents_794541/blob/main/images/workflow%20agents.png?raw=true)
 
 ### 3. Evaluation
 
