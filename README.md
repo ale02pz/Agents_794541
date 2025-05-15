@@ -55,7 +55,11 @@ Our multi-agent system successfully demonstrates the ability to process data ana
 
 ![Data Processing Task2](https://github.com/ale02pz/Agents_794541/blob/main/images/Screenshot%202025-05-15%20alle%2003.42.27.png?raw=true)
 
-![Visualization prompt]
+![Visualization prompt1]
+
+![Visualization Task1](https://github.com/ale02pz/Agents_794541/blob/main/images/WhatsApp%20Image%202025-05-15%20at%2018.37.55.jpeg?raw=true)
+
+![Visualization Task2]
 
 ### 5. Conclusion
 This project demonstrates the effectiveness of a modular multi-agent system for handling complex data tasks through specialized agents. By leveraging Gemini with an API key for robust natural language processing and implementing a structured ClusterFlow for task routing, we successfully simulated intelligent task delegation without the need for traditional reinforcement learning. Our design allows for flexible, interpretable, and reproducible agent-based pipelines that can handle data processing, conversational logic, and visualization in parallel—culminating in a coherent, aggregated output.
