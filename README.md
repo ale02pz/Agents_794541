@@ -50,16 +50,16 @@ list_of_hard_tasks = ["Calculates the percentage distribution of access methods 
 
 ### 4. Result
 Our multi-agent system successfully demonstrates the ability to process data analysis tasks and generate accurate visualizations. The system leverages a combination of conversational agents and specialized data processing agents to perform tasks efficiently. Following there are the executions of some of the tasks listed above.
-
+**Data Processing Task 1**:
 ![Data Processing Task1](https://github.com/ale02pz/Agents_794541/blob/main/images/WhatsApp%20Image%202025-05-15%20at%2018.34.31.jpeg?raw=true)
-
+**Data Processing Task 2**:
 ![Data Processing Task2](https://github.com/ale02pz/Agents_794541/blob/main/images/Screenshot%202025-05-15%20alle%2003.42.27.png?raw=true)
-
+**Data Visualization Task 1**:
 ![Visualization prompt1](https://github.com/ale02pz/Agents_794541/blob/main/images/WhatsApp%20Image%202025-05-15%20at%2018.38.36.jpeg?raw=true)
 
 ![Visualization Task1](https://github.com/ale02pz/Agents_794541/blob/main/images/WhatsApp%20Image%202025-05-15%20at%2018.37.55.jpeg?raw=true)
-
-![Visualization Task2]
+**Data Visualization Task 2**:
+![Visualization Task2](https://github.com/ale02pz/Agents_794541/blob/main/images/WhatsApp%20Image%202025-05-15%20at%2018.54.39.jpeg?raw=true)
 
 ### 5. Conclusion
 This project demonstrates the effectiveness of a modular multi-agent system for handling complex data tasks through specialized agents. By leveraging Gemini with an API key for robust natural language processing and implementing a structured ClusterFlow for task routing, we successfully simulated intelligent task delegation without the need for traditional reinforcement learning. Our design allows for flexible, interpretable, and reproducible agent-based pipelines that can handle data processing, conversational logic, and visualization in parallel—culminating in a coherent, aggregated output.
