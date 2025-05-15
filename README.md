@@ -55,7 +55,7 @@ Our multi-agent system successfully demonstrates the ability to process data ana
 
 ![Data Processing Task2](https://github.com/ale02pz/Agents_794541/blob/main/images/Screenshot%202025-05-15%20alle%2003.42.27.png?raw=true)
 
-![Visualization prompt1]
+![Visualization prompt1](https://github.com/ale02pz/Agents_794541/blob/main/images/WhatsApp%20Image%202025-05-15%20at%2018.38.36.jpeg?raw=true)
 
 ![Visualization Task1](https://github.com/ale02pz/Agents_794541/blob/main/images/WhatsApp%20Image%202025-05-15%20at%2018.37.55.jpeg?raw=true)
 
