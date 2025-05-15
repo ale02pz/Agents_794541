@@ -30,11 +30,27 @@ Our multi-agent system is designed to efficiently manage tasks by directly inter
 ![Workflow Agents](https://github.com/ale02pz/Agents_794541/blob/main/images/workflow%20agents.png?raw=true)
 
 ### 3. Evaluation
+In our opinion, the most effective way to evaluate the performance of the agents was to test them on a variety of tasks of differing complexity. By assessing their ability to handle basic, intermediate, and advanced tasks, we could systematically gauge their strengths and limitations. In this section, we present a list of some of the tasks used during the evaluation. All of these tasks were successfully completed, demonstrating the agents' ability to correctly interpret the input and generate accurate outputs.
+This approach allowed us to thoroughly test the agents' capabilities in both data processing and visualization, ensuring they perform consistently across diverse scenarios.
+Lists of the used prompts:
 
-!(blob:https://web.whatsapp.com/f8d3d526-6a5e-4c39-bba2-c195269d5071)
+list_of_tasks_easy = ['Calculate the total number of digital accesses grouped by authentication method.', "Plot the distribution of genders among digital access users",
+"Find the most common payment method for each municipality", "Plot the gender distribution of employees across the top 3 municipalities with the most employees.",
+"Calculate the average tax rate for each sector.", "Plot the distribution of age groups within the public sector.", "Plot the number of employees commuting within the same municipality",
+"Plot the percentage of the age range in POTENZA in the salary dataframe as a pie plot","Identify the most common authentication method for users aged 25-40.", 
+"List all regions where the majority of users are younger than 30. If it is empty print 0", "Find the proportion of employees commuting less than 10 km in each province."]
+
+list_of_tasks_intermediate = ["Compare the distribution of authentication methods between males and females.", "Plot the average number of employees per gender for each payment method.", "Determine the income range with the highest number of employees within each region.", "Identify the top 5 administrations where employees with longer commuting distances (more than 20 km) tend to have higher incomes", "Calculate the average distance commuted by employees earning more than 50,000 in different provinces.",
+"Plot a heatmap to visualize the relationship between income level and commuting distance across regions."]
+
+list_of_hard_tasks = ["Calculates the percentage distribution of access methods to the NoiPA portal among users aged 18-30 compared to those over 50, broken down by region of residence", "Identifies the most used payment method for each age group and generates a graph showing whether there are correlations between gender and payment method preference",
+"Analyzes commuting data to identify which administrations have the highest percentage of employees who travel more than 20 miles to work",
+"Compares the gender distribution of staff among the five municipalities with the largest number of employees, highlighting any significant differences in representation by age group",
+"Determines if there is a correlation between the method of portal access (from EntryAccessAdministration) and the average commuting distance (from EntryPendularity) for each administration.", "Identify the relationship between income level and the preferred payment method, grouped by region.", "Identify the top 5 regions where employees aged under 30 are more likely to use digital payment methods compared to employees over 50.", "Create a dashboard with subplots: a bar plot for payment methods by age group; a line chart showing the trend of commuting distances; a heatmap of the distribution of authentication methods by region."]
+
 ### 4. Result
-Our multi-agent system successfully demonstrates the ability to process data analysis tasks and generate accurate visualizations. The system leverages a combination of conversational agents and specialized data processing agents to perform tasks efficiently.
-The example that we provided is this:
+Our multi-agent system successfully demonstrates the ability to process data analysis tasks and generate accurate visualizations. The system leverages a combination of conversational agents and specialized data processing agents to perform tasks efficiently. Following there are the executions of some of the tasks listed above.
+
 
 
 ### 5. Conclusion
@@ -55,4 +71,3 @@ While our multi-agent system demonstrates robust performance in routing tasks, d
 5. HAVE FUN!
 
 ---------------------------------------------------------------
-**At the end of the notebook, we added three lists of prompts divided by difficulty (easy, intermediate and hard) that we tested on Agents.**
