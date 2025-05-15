@@ -51,6 +51,8 @@ list_of_hard_tasks = ["Calculates the percentage distribution of access methods 
 ### 4. Result
 Our multi-agent system successfully demonstrates the ability to process data analysis tasks and generate accurate visualizations. The system leverages a combination of conversational agents and specialized data processing agents to perform tasks efficiently. Following there are the executions of some of the tasks listed above.
 
+!(https://github.com/ale02pz/Agents_794541/blob/main/images/WhatsApp%20Image%202025-05-15%20at%2018.34.31.jpeg?raw=true)
+
 
 
 ### 5. Conclusion
