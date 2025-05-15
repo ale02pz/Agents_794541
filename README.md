@@ -69,7 +69,7 @@ While our multi-agent system demonstrates robust performance in routing tasks, d
 --------------------------------------------------------------
 ### HOW TO RUN THE CODE
 1. Ensure you have the version Python 3.11.9, if not install it.
-2. We strongly suggest to create a dedicated virtual environment and install the packages contained in `requirements.txt`.
+2. We strongly suggest to create a dedicated virtual environment and install the packages contained in `requirements.txt` -> `pip install -r requirements.txt`
 3. Once you have installed everything, run the notebook.
 
 ### HOW TO USE THE STREAMLIT VERSION
